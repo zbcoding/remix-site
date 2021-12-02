@@ -1,4 +1,4 @@
-# Welcome to Remix!
+## Remix site that has one blog post. Remix is another front end framework.
 
 - [Remix Docs](https://remix.run/docs)
 
